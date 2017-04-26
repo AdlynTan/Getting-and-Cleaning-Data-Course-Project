@@ -2,7 +2,7 @@
 
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
-
+======================================
 Jorge L. Reyes-Ortiz(1,2), Davide Anguita(1), Alessandro Ghio(1), Luca Oneto(1) and Xavier Parra(2)
 1 - Smartlab - Non-Linear Complex Systems Laboratory
 DITEN - Universit�  degli Studi di Genova, Genoa (I-16145), Italy. 
